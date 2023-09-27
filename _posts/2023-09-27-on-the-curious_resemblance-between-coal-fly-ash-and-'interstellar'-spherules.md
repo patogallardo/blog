@@ -3,8 +3,6 @@ layout: single
 title: "On the curious resemblance between coal fly ash and 'interstellar' spherules"
 ---
 
-# On The Curious Resemblance Between Coal Fly Ash and 'Interstellar' Spherules
-
 An expedition to search for the remaining of a meteor near Papua New Guinea has been conducted [1]. The expedition used a sled equipped with magnets to sweep the ocean floor searching for iron rich fragments that could have been left from a claimed meteor fall. 
 
 A recent preprint discusses the composition of collected spherical samples (Loeb 2023 [2], henceforth L23). The preprint concludes that the composition of five samples is anomalous due to their high content of uranium, lanthanum and beryllium compared to a type of stony meteorite. 
