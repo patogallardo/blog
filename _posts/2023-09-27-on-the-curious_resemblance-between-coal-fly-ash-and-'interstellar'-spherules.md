@@ -35,7 +35,9 @@ Let's look at Uranium a bit more closely. Using the COALQUAL database (maintaine
 
 
 Doing the same exercise for Lanthanum, we obtain that the COALQUAL data suggests Lanthanum concentrations in ash from 8 to 1800 ppm, and the green bars fall nicely on this range, with a max of 260ppm.
+
 ![Black: histogram showing the expected Lanthanum concentration for coal ash. Green: measured abundances for Lanthanum reported in L23](/blog/assets/La_conc_COALQUAL.png)
+
 
 Beryllium tells us the same story. COALQUAL data suggests ash is in the range 1 to 650 ppm, while the data in L23 shows a maximum of 114 ppm, within the expected range.
 
@@ -65,7 +67,7 @@ The claimed evidence presented in L23 for the alleged interstellar origin of the
 
 Based on the information provided, it appears that the L23 paper might have uncovered something we've been aware of for over half a century.  That we are polluting the planet.
 
-
+## References
 
 [1] Loeb, A. (2022). Overview of the Galileo Project. arXiv preprint arXiv:2209.02479.
 
