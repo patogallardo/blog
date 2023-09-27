@@ -5,7 +5,11 @@ title: "On the curious resemblance between coal fly ash and 'interstellar' spher
 
 # On The Curious Resemblance Between Coal Fly Ash and 'Interstellar' Spherules
 
-In 2023, an expedition to search for the remaining of a meteor near Papua New Guinea has been conducted [1]. The expedition used a sled equipped with magnets to sweep the ocean floor searching for iron rich fragments that could have been left from a claimed meteor fall. A recent preprint discusses the composition of collected spherical samples (Loeb 2023 [2], henceforth L23), and concludes ostensibly that, according to the authors, the origin of five of the retrieved samples could be interstellar given their high content of Uranium, Lanthanum and Beryllium compared to a type of stony meteorite. The lack of consensus regarding the plausibility of an atmospheric survival for the meteor in question [3] motivates a discussion of possible contaminants that could yield a wrong conclusion. In this post I examine a similar experiment conducted almost 50 years ago, which found curiously similar spherules from terrestrial origin. I present a compositional comparison, which strengthens the curiosity of the resemblance.
+An expedition to search for the remaining of a meteor near Papua New Guinea has been conducted [1]. The expedition used a sled equipped with magnets to sweep the ocean floor searching for iron rich fragments that could have been left from a claimed meteor fall. 
+
+A recent preprint discusses the composition of collected spherical samples (Loeb 2023 [2], henceforth L23). The preprint concludes that the composition of five samples is anomalous due to their high content of uranium, lanthanum and beryllium compared to a type of stony meteorite. 
+
+The lack of consensus regarding the plausibility of an atmospheric survival for the meteor in question [3] motivates a discussion of possible contaminants that could yield a wrong conclusion. In this post I examine a similar experiment conducted almost 50 years ago, which found curiously similar spherules from terrestrial origin. I present a compositional comparison, which strengthens the curiosity of the resemblance.
 
 ## A curiously similar experiment, 50 years ago
 
@@ -23,46 +27,46 @@ Fly ash is simply the lightest ash that remains from the combustion of coal in a
 
 The iron content reported in the 1976 paper was similar to the iron content reported in L23. The magnetic spherules in the 1976 paper were made of 60 to 70 percent iron (see Table 1 in [4]), while the spherules reported in L23 are also in this range (median 65 percent iron).
 
-## The curiously similar content of Beryllium, Lanthanum and Uranium
+## The curiously similar content of beryllium, lanthanum and uranium
 
-The L23 paper makes use of the high concentration of Beryllium, Lanthanum and Uranium, compared to CI Chondrites (a type of stony meteorite), which according to the paper is presented as evidence of the interstellar origin of these samples. The paper however, falls short at comparing the measured composition to known terrestrial contaminants such as fly ash. Perhaps, the most crude comparison can be made by looking at the Uranium abundance and comparing it to the abundance of coal ash. The USGS does monitor these numbers, due to their relevance in human health [7]. The figure below from [7] shows that a typical concentration of Uranium falls in the range between 2.5 to 70 parts per million (ppm). The BeLaU samples in L23 fall in the range 2.5 to 9.7 ppm, which puts it in the same order of magnitude of coal ash.
+The L23 paper makes use of the high concentration of beryllium, lanthanum and uranium, compared to CI Chondrites (a type of stony meteorite), which according to the paper is presented as evidence of the interstellar origin of these samples. The paper however, falls short at comparing the measured composition to known terrestrial contaminants such as fly ash. Perhaps, the most crude comparison can be made by looking at the uranium abundance and comparing it to the abundance of coal ash. The USGS does monitor these numbers, due to their relevance in human health [7]. The figure below from [7] shows that a typical concentration of uranium falls in the range between 2.5 to 70 parts per million (ppm). The BeLaU samples in L23 fall in the range 2.5 to 9.7 ppm, which puts it in the same order of magnitude of coal ash.
 
 ![Typical range of U content in coal and ash. Figure taken from Zielinski et Al. 1997](/blog/assets/U_content_in_ash.png)
 
-Let's look at Uranium a bit more closely. Using the COALQUAL database (maintained by USGS) and converting the abundances of trace elements to ash abundances, the plot below shows in black the histogram of expected concentration of Uranium in the collected samples, while the green vertical bars show the abundances for the five samples reported in L23. All measured values fall within the range covered by the histogram, which means that quite plausibly these abundances belong to the distribution shown in the histogram and therefore can plausibly be attributed to fly ash (or at least more plausibly than to an interstellar object!).
+Let's look at uranium a bit more closely. Using the COALQUAL database (maintained by USGS) and converting the abundances of trace elements to ash abundances, the plot below shows in black the histogram of expected concentration of uranium in the collected samples, while the green vertical bars show the abundances for the five samples reported in L23. All measured values fall within the range covered by the histogram, which means that quite plausibly these abundances belong to the distribution shown in the histogram and therefore can plausibly be attributed to fly ash (or at least more plausibly than to an interstellar object!).
 
-![Black: histogram showing the expected Uranium concentration for coal ash. Green: measured abundances for Uranium reported in L23.](/blog/assets/U_conc_COALQUAL.png)
-
-
-Doing the same exercise for Lanthanum, we obtain that the COALQUAL data suggests Lanthanum concentrations in ash from 8 to 1800 ppm, and the green bars fall nicely on this range, with a max of 260ppm.
-
-![Black: histogram showing the expected Lanthanum concentration for coal ash. Green: measured abundances for Lanthanum reported in L23](/blog/assets/La_conc_COALQUAL.png)
+![Black: histogram showing the expected uranium concentration for coal ash. Green: measured abundances for uranium reported in L23.](/blog/assets/U_conc_COALQUAL.png)
 
 
-Beryllium tells us the same story. COALQUAL data suggests ash is in the range 1 to 650 ppm, while the data in L23 shows a maximum of 114 ppm, within the expected range.
+Doing the same exercise for lanthanum, we obtain that the COALQUAL data suggests lanthanum concentrations in ash from 8 to 1800 ppm, and the green bars fall nicely on this range, with a max of 260ppm.
 
-![Black: histogram showing the expected Beryllium concentration for coal ash. Green: measured abundances for Beryllium reported in L23](/blog/assets/Be_conc_COALQUAL.png)
+![Black: histogram showing the expected lanthanum concentration for coal ash. Green: measured abundances for lanthanum reported in L23](/blog/assets/La_conc_COALQUAL.png)
 
 
-## The curiously low Nickel content in the BeLaU samples
+beryllium tells us the same story. COALQUAL data suggests ash is in the range 1 to 650 ppm, while the data in L23 shows a maximum of 114 ppm, within the expected range.
 
-According to Handy 1953 [4], the absence of Nickel is a signature of fly ash
+![Black: histogram showing the expected beryllium concentration for coal ash. Green: measured abundances for beryllium reported in L23](/blog/assets/Be_conc_COALQUAL.png)
+
+
+## The curiously low nickel content in the BeLaU samples
+
+According to Handy 1953 [4], the absence of nickel is a signature of fly ash
 
 >"Perhaps the most reliable test for differentiation between magnetic
 >fly ash and meteoritic dust is the presence of nickel, since both
->dusts are similar in particle size and appearance. Nickel is reported
+>dusts are similar in particle size and appearance. nickel is reported
 >as present in meteoritic dust; it is absent in fly ash."
 
-L23 however shows a very low concentration of Nickel in the BeLaU samples. As low as 0.02%, or 198ppm. How does this compare to Nickel in ash from coal?. I am glad you asked.  In the histogram below I estimate the content in ash of Nickel, by using the content in coal and using the fraction that becomes ash. It can be noted that, again, the Nickel concentration is in the same range as coal ash.
+L23 however shows a very low concentration of nickel in the BeLaU samples. As low as 0.02%, or 198ppm. How does this compare to nickel in ash from coal?. I am glad you asked.  In the histogram below I estimate the content in ash of nickel, by using the content in coal and using the fraction that becomes ash. It can be noted that, again, the nickel concentration is in the same range as coal ash.
 
-![Concentration of Nickel in ash from coal and measured Nickel concentration in L23 [7].](/blog/assets/Ni_conc_COALQUAL.png)
+![Concentration of nickel in ash from coal and measured nickel concentration in L23 [7].](/blog/assets/Ni_conc_COALQUAL.png)
 
 ## Conclusion
 
 The claimed evidence presented in L23 for the alleged interstellar origin of the BeLaU samples does not look plausible for the following reasons: 
 1) The iron content is essentially identical to the iron content in magnetic fly ash as reported in Doyle 1976. 
 2) The low nickel content is consistent with coal ash as mentioned in Handy 1953 and as suggested by COALQUAL data. 
-3) The Beryllium, Lanthanum and Uranium content are consistent with the content expected from the combustion of coal from COALQUAL data.
+3) The beryllium, lanthanum and uranium content are consistent with the content expected from the combustion of coal from COALQUAL data.
 4) None of the points stressed above are discussed in the 2023 paper.
 
 Based on the information provided, it appears that the L23 paper might have uncovered something we've been aware of for over half a century.  That we are polluting the planet.
