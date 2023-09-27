@@ -11,7 +11,7 @@ In 2023, an expedition to search for the remaining of a meteor near Papua New Gu
 
 In August 1972, an expedition on board of the R.V. Bellows III measured the concentrations of plankton and particulate constituents in the waters near the Gulf of Mexico [4]. Bottles of 30 liters were deployed and their content was filtered. The filter would select particle sizes larger than 28 microns in size. The expedition reported the finding of over *8000* black magnetic spherules. The image below shows a comparison between the spherules found in 2023 (left) and the spherules reported in 1976 (right).
 
-![The curious resemblance between spherules][/assets/spherules_comp.png]
+![The curious resemblance between spherules](/assets/spherules_comp.png)
 
 ## Fly ash: the curiously similar spherules
 
