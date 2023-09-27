@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "On the curious resemblance between coal fly ash and 'interstellar' spherules"
 ---
 
