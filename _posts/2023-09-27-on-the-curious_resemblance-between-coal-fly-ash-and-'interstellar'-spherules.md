@@ -11,7 +11,7 @@ In 2023, an expedition to search for the remaining of a meteor near Papua New Gu
 
 In August 1972, an expedition on board of the R.V. Bellows III measured the concentrations of plankton and particulate constituents in the waters near the Gulf of Mexico [4]. Bottles of 30 liters were deployed and their content was filtered. The filter would select particle sizes larger than 28 microns in size. The expedition reported the finding of over *8000* black magnetic spherules. The image below shows a comparison between the spherules found in 2023 (left) and the spherules reported in 1976 (right).
 
-![The curious resemblance between spherules](/assets/spherules_comp.png)
+![The curious resemblance between spherules](/blog/assets/spherules_comp.png)
 
 ## Fly ash: the curiously similar spherules
 
@@ -31,15 +31,15 @@ The L23 paper makes use of the high concentration of Beryllium, Lanthanum and Ur
 
 Let's look at Uranium a bit more closely. Using the COALQUAL database (maintained by USGS) and converting the abundances of trace elements to ash abundances, the plot below shows in black the histogram of expected concentration of Uranium in the collected samples, while the green vertical bars show the abundances for the five samples reported in L23. All measured values fall within the range covered by the histogram, which means that quite plausibly these abundances belong to the distribution shown in the histogram and therefore can plausibly be attributed to fly ash (or at least more plausibly than to an interstellar object!).
 
-![Black: histogram showing the expected Uranium concentration for coal ash. Green: measured abundances for Uranium reported in L23.](/assets/U_conc_COALQUAL.png)
+![Black: histogram showing the expected Uranium concentration for coal ash. Green: measured abundances for Uranium reported in L23.](/blog/assets/U_conc_COALQUAL.png)
 
 
 Doing the same exercise for Lanthanum, we obtain that the COALQUAL data suggests Lanthanum concentrations in ash from 8 to 1800 ppm, and the green bars fall nicely on this range, with a max of 260ppm.
-![Black: histogram showing the expected Lanthanum concentration for coal ash. Green: measured abundances for Lanthanum reported in L23](/assets/La_conc_COALQUAL.png)
+![Black: histogram showing the expected Lanthanum concentration for coal ash. Green: measured abundances for Lanthanum reported in L23](/blog/assets/La_conc_COALQUAL.png)
 
 Beryllium tells us the same story. COALQUAL data suggests ash is in the range 1 to 650 ppm, while the data in L23 shows a maximum of 114 ppm, within the expected range.
 
-![Black: histogram showing the expected Beryllium concentration for coal ash. Green: measured abundances for Beryllium reported in L23](/assets/Be_conc_COALQUAL.png)
+![Black: histogram showing the expected Beryllium concentration for coal ash. Green: measured abundances for Beryllium reported in L23](/blog/assets/Be_conc_COALQUAL.png)
 
 
 ## The curiously low Nickel content in the BeLaU samples
@@ -53,7 +53,7 @@ According to Handy 1953 [4], the absence of Nickel is a signature of fly ash
 
 L23 however shows a very low concentration of Nickel in the BeLaU samples. As low as 0.02%, or 198ppm. How does this compare to Nickel in ash from coal?. I am glad you asked.  In the histogram below I estimate the content in ash of Nickel, by using the content in coal and using the fraction that becomes ash. It can be noted that, again, the Nickel concentration is in the same range as coal ash.
 
-![Concentration of Nickel in ash from coal and measured Nickel concentration in L23 [7].](/assets/Ni_conc_COALQUAL.png)
+![Concentration of Nickel in ash from coal and measured Nickel concentration in L23 [7].](/blog/assets/Ni_conc_COALQUAL.png)
 
 ## Conclusion
 
