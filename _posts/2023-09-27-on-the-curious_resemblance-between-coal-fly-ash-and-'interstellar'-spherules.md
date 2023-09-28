@@ -41,7 +41,7 @@ Doing the same exercise for lanthanum, we obtain that the COALQUAL data suggests
 ![Black: histogram showing the expected lanthanum concentration for coal ash. Green: measured abundances for lanthanum reported in L23](/blog/assets/La_conc_COALQUAL.png)
 
 
-beryllium tells us the same story. COALQUAL data suggests ash is in the range 1 to 650 ppm, while the data in L23 shows a maximum of 114 ppm, within the expected range.
+Beryllium tells us the same story. COALQUAL data suggests ash is in the range 1 to 650 ppm, while the data in L23 shows a maximum of 114 ppm, within the expected range.
 
 ![Black: histogram showing the expected beryllium concentration for coal ash. Green: measured abundances for beryllium reported in L23](/blog/assets/Be_conc_COALQUAL.png)
 
@@ -55,7 +55,7 @@ According to Handy 1953 [4], the absence of nickel is a signature of fly ash
 >dusts are similar in particle size and appearance. nickel is reported
 >as present in meteoritic dust; it is absent in fly ash."
 
-L23 however shows a very low concentration of nickel in the BeLaU samples. As low as 0.02%, or 198ppm. How does this compare to nickel in ash from coal?. I am glad you asked.  In the histogram below I estimate the content in ash of nickel, by using the content in coal and using the fraction that becomes ash. It can be noted that, again, the nickel concentration is in the same range as coal ash.
+L23 however shows a very low concentration of nickel in the BeLaU samples. As low as 0.02%, or 198ppm. How does this compare to nickel in ash from coal? I am glad you asked.  In the histogram below I estimate the content in ash of nickel, by using the content in coal and using the fraction that becomes ash. It can be noted that, again, the nickel concentration is in the same range as coal ash.
 
 ![Concentration of nickel in ash from coal and measured nickel concentration in L23 [7].](/blog/assets/Ni_conc_COALQUAL.png)
 
