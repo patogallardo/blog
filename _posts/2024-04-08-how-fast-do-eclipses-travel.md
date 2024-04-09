@@ -5,7 +5,9 @@ title: "How fast do eclipses travel?"
 
 
 
-Total solar eclipses are really impressive. In a total eclipse, the Sun is completely blocked off by the moon, which makes some spectacular views, as the sky turns dark, stars and planets become visible during the day and the solar corona becomes also visible, with an out-of-this-world look.
+Total solar eclipses are really impressive. In a total eclipse, the Sun is completely blocked off by the moon, which makes some spectacular views, as the sky turns dark, stars and planets become visible during the day and the solar corona becomes also visible, with an out-of-this-world [look](https://commons.wikimedia.org/wiki/File:Total_eclipse_april_2024_solar_prominences.jpg).
+
+![The 2024 total solar eclipse](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Total_eclipse_april_2024_solar_prominences.jpg/1024px-Total_eclipse_april_2024_solar_prominences.jpg)
 
 The 2024 North American solar eclipse lasted about 3 minutes, which is essentially given by the speed at which the Moon's shadow travels over the surface of the Earth. How fast does the eclipse travel?
 
