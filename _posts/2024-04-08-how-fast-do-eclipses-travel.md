@@ -1,4 +1,9 @@
-# How fast do eclipses travel?
+---
+layout: single
+title: "How fast do eclipses travel?"
+---
+
+
 
 Total solar eclipses are really impressive. In a total eclipse, the Sun is completelly blocked off by the moon, which makes some spectacular views, as the sky turns dark, stars and planets become visible during the day and the solar corona becomes also visible, with an out-of-this-world look.
 
