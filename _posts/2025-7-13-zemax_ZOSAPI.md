@@ -9,7 +9,8 @@ Zemax allows the use of its API through Python, however since a while the connec
 
 One way in which the ZOSAPI connection can break while upgrading Zemax OpticStudio is by raising an Unhandled Exception error. The error looks like this: 
 
-System.IO.FileLoadException: Could not load file or assembly 'ZemaxEngine.dll' or one of its dependencies. A dynamic link library (DLL) initialization routine failed. (Exception from HRESULT:0x8007045A).
+```
+System.IO.FileLoadException: Could not load file or assembly 'ZemaxEngine.dll' or one of its dependencies. A dynamic link library (DLL) initialization routine failed. (Exception from HRESULT:0x8007045A).```
 
 This kind of error is not very illuminating as it can mean various things. After a clean reinstall of Zemax this error persists, which indicates there's something else going on.
 
