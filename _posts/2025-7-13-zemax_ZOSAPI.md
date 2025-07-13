@@ -18,7 +18,9 @@ This kind of error is not very illuminating as it can mean various things. After
 
 Zemax is a bit cryptic on what exactly is broken with the new versions of Python and Zemax that make this incompatibility issue, however one way of fixing is by using a previous version of Python and its libraries which seems to fix the issue entirely, so here it is how I managed to fix this:
 
-1- Install Python 3.8 https://www.python.org/downloads/release/python-380/
-2- Install Pythonnet 2.5.2 by running: pip install pythonnet==2.5.2
+1- [Install Python 3.8](https://www.python.org/downloads/release/python-380/)
+2- Install Pythonnet 2.5.2 by running: 
+
+```pip install pythonnet==2.5.2```
 
 This should solve these issues.
